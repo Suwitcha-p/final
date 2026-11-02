@@ -1,0 +1,183 @@
+{
+  "AIID": {
+    "rows": 1775,
+    "cols": 59,
+    "date_min": "1983-09-26 00:00:00",
+    "date_max": "2026-10-22 00:00:00",
+    "year_min": 1983,
+    "year_max": 2026,
+    "risk_domain_top": {
+      "Malicious Actors & Misuse": 566,
+      "AI system safety, failures, and limitations": 313,
+      "Discrimination and Toxicity": 243,
+      "Misinformation": 196,
+      "Privacy & Security": 112
+    },
+    "harm_domain_top": {
+      "yes": 158,
+      "no": 29,
+      "maybe": 13
+    },
+    "top_deployers": {
+      "Scammers": 53,
+      "Openai": 42,
+      "Google": 41,
+      "Tesla": 41,
+      "Facebook": 35
+    }
+  },
+  "FOTN": {
+    "rows": 940,
+    "cols": 12,
+    "years": [
+      2010,
+      2011,
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024
+    ],
+    "num_countries": 72,
+    "status_dist": {
+      "Partly Free": 428,
+      "Not Free": 269,
+      "Free": 243
+    },
+    "score_min": 9.0,
+    "score_max": 96.0,
+    "score_mean": 53.21382978723404
+  },
+  "EUvsDisinfo": {
+    "rows": 18249,
+    "cols": 9,
+    "date_min": "01-01-2018",
+    "date_max": "31-12-2022",
+    "top_languages": {
+      "English": 6546,
+      "Russian": 5825,
+      "Arabic": 3451,
+      "Ukrainian": 323,
+      "German": 313
+    },
+    "top_domains": {
+      "reuters.com": 487,
+      "arabic.rt.com": 447,
+      "ria.ru": 441,
+      "bbc.com": 424,
+      "theguardian.com": 397
+    },
+    "classes": {
+      "disinformation": 10682,
+      "trustworthy": 7567
+    }
+  },
+  "AFNC": {
+    "rows": 17726,
+    "cols": 18,
+    "date_min": "2019-01-05",
+    "date_max": "2026-10-31",
+    "verdicts_th": {
+      "ข่าวปลอม": 9520,
+      "ข่าวจริง": 3503,
+      "NaN": 3268,
+      "ข่าวบิดเบือน": 1435
+    },
+    "categories_th": {
+      "นโยบายรัฐบาล-ข่าวสาร": 6272,
+      "ผลิตภัณฑ์สุขภาพ": 3788,
+      "การเงิน-หุ้น": 2514,
+      "คลังความรู้": 1882,
+      "อาชญากรรมออนไลน์": 1317,
+      "ภัยพิบัติ": 713,
+      "ความสงบและความมั่นคง": 683,
+      "ข่าวอื่นๆ": 391,
+      "กิจกรรม": 98,
+      "ข่าวสาร": 40,
+      "เศรษฐกิจ": 23,
+      "ยาเสพติด": 5
+    },
+    "item_types": {
+      "Verdict": 14458,
+      "Knowledge article": 1882,
+      "Online crime advisory": 963,
+      "Other news": 280,
+      "Activity": 98,
+      "Announcement": 40,
+      "Unlabelled": 5
+    }
+  },
+  "ACSC": {
+    "rows": 48,
+    "cols": 18,
+    "week_min": "2025-11-09",
+    "week_max": "2026-10-24",
+    "total_cases": 381390.0,
+    "total_loss_baht": 18177373771.0,
+    "top_types": {
+      "การหลอกลวงด้านสินค้าและบริการ": 24,
+      "หลอกซื้อขายสินค้าออนไลน์": 9,
+      "การหลอกซื้อขายสินค้าออนไลน์": 5,
+      "การหลอกลวงซื้อขายสินค้าหรือบริการ": 2,
+      "หลอกลวงซื้อขายสินค้าและบริการ": 2,
+      "หลอกซื้อ-ขายสินค้า": 2,
+      "หลอกซื้อขายสินค้าหรือบริการออนไลน์": 1,
+      "หลอกซื้อขายสินค้าหรือบริการ": 1
+    },
+    "highest_loss_types": {
+      "การหลอกลวงด้านสินค้าและบริการ": 8,
+      "การหลอกลวงด้านการเงินและการลงทุน": 7,
+      "การหลอกลวงโดยการแอบอ้างบุคคลอื่น": 5,
+      "หลอกลงทุน": 4,
+      "การหลอกให้ลงทุนผ่านระบบคอมพิวเตอร์": 3,
+      "การหลอกโอนเงินเพื่อรับรางวัล": 3,
+      "ข่มขู่ทางโทรศัพท์": 3,
+      "หลอกให้ลงทุน": 3,
+      "หลอกให้ลงทุนผ่านระบบคอมพิวเตอร์": 2,
+      "หลอกให้โอนเงินเพื่อหารายได้พิเศษ": 2,
+      "การหลอกให้โอนเงินเพื่อรับรางวัล": 1,
+      "หลอกให้โอนเงินเพื่อรับรางวัล": 1,
+      "หลอกให้โอนเงินเพื่อรับรางวัล / หลอกให้โอนเงินเพื่อหารายได้พิเศษ (tied)": 1,
+      "หลอกทำงานออนไลน์": 1,
+      "การหลอกลวงโดยการแอบอ้างเป็นบุคคลอื่น": 1
+    },
+    "flagged_weeks": [
+      {
+        "week_start": "2026-04-12",
+        "flag": "Reported as exactly 5,000 cases; the next briefing's change implies 4,997.",
+        "notes": "Briefing 20 Apr (Songkran week). Comparison period stated as '4-11 เม.ย.'. Highest-loss amount rounded ('กว่า 102 ล้าน', 184 cases). Conflicts: 397,413,314-269,445,711 = -127,967,603 vs stated -129,989,245; next week's stated changes imply 4,997 cases and 268,920,990 baht for this week. 5,000 cases also in Thai PBS Verify and police PR (saranitet 62096)."
+      },
+      {
+        "week_start": "2026-05-30",
+        "flag": "Briefing states the period as 30 May-6 Jun (8 days), overlapping the previous week.",
+        "notes": "Period stated as '30 พ.ค.-6 มิ.ย.' (8 days, overlaps 30 May of the prior week; probably 31 May-6 Jun). Loss change rounded (9.86M; arithmetic -9,771,238). Highest-loss amount (39.61M) from police PR saranitet 63786; same headline figures in Thairath 2938168."
+      },
+      {
+        "week_start": "2026-08-16",
+        "flag": "Suspect: published cases and loss are about 13x a normal week and conflict with the same release's type breakdown (4,892 cases = 80.6% implies ~6,070). Kept as published.",
+        "notes": "SUSPECT FIGURES as published by ACSC (identical in Thairath 2954877, Thaitabloid 314005, police PR https://saranitet.police.go.th/commanders-mission/crime-prevention-and-suppression_24082026_67646/). Cases inconsistent: top type 4,892 cases = 80.6% implies ~6,070 total, not 79,311. Loss 2,775M is consistent with 756M = 27.2% share. Highest loss 'เกือบ 756 ล้าน'; loss change 'กว่า 2,500 ล้าน'."
+      },
+      {
+        "week_start": "2026-08-23",
+        "flag": "Change vs previous week is computed against the suspect 16-22 Aug figures.",
+        "notes": "Top type 4,410 cases. Highest loss 'กว่า 62 ล้าน' (24.2%). Week-on-week changes are not in the Chiangmai News text; taken from police PR https://saranitet.police.go.th/commanders-mission/crime-prevention-and-suppression_31082026_68069/ and are computed against the suspect 16-22 Aug figures."
+      }
+    ]
+  },
+  "Weekly_Panel": {
+    "rows": 409,
+    "cols": 27,
+    "week_min": "2018-12-30",
+    "week_max": "2026-10-31",
+    "acsc_reported_count": 48,
+    "acsc_missing_count": 361
+  }
+}
